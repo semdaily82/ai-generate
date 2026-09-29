@@ -1,0 +1,6 @@
+{
+  "name": "AI Affiliate Video Factory",
+  "description": "Generator video affiliate TikTok 9:16 otomatis dengan konsistensi model karakter dan produk bertenaga Gemini & Veo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
